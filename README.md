@@ -8,9 +8,5 @@ Stock market chart which compares prices of stocks to currencies other than USD.
 
 
 
-Inspired by this tweet from GNOD founder: 
-
-<img width="602" alt="Screen Shot 2021-08-24 at 6 47 13 PM" src="https://user-images.githubusercontent.com/32463812/130701324-baadd328-cbba-4bd5-b178-42de94d3c5a7.png">
-
 
 
